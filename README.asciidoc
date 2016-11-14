@@ -1,4 +1,4 @@
-test
+Commit depuis une nouvelle branche
 A simple Java EE 7 Sample
 =========================
 
